@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAKE RAMEN HAPPY</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <header>
+
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Game</a></li>
+                <li>About</li>
+                <li>Info</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="screen">
+            <div id="game">
+                <div id="game_background"></div>
+                <div id="game_foreground"></div>
+                <div id="game_sprites">
+                    <div id="mushroom_container" class="pos1">
+                        <div id="mushroom" class=""></div>
+                    </div>
+                    <div id="egg_container" class="pos2">
+                        <div id="egg" class=""> </div>
+                    </div>
+                    <div id="fish_container" class="pos3">
+                        <div id="fish" class=""></div>
+                    </div>
+                    <div id="poison_container" class="pos4">
+                        <div id="poison" class=""></div>
+                    </div>
+                    <div id="candy_container" class="pos5">
+                        <div id="candy" class=""></div>
+                    </div>
+                    <div id="poison1_container" class="pos6">
+                        <div id="poison1"></div>
+                    </div>
+                    <div id="candy1_container" class="pos7">
+                        <div id="candy1"></div>
+                    </div>
+
+                    <audio id="bgSound" src="assets/purple-planet-quirkymoments.mp3"></audio>
+                </div>
+                <div id=game_ui>
+                    <audio id="sadSound" src="assets/sad-sound-loselife.mp3"></audio>
+                    <audio id="happySound" src="assets/happy-sound.mp3"></audio>
+                    <audio id="sadSound2" src="assets/sad-sound-losepoint.mp3"></audio>
+                    <audio id="buttonSound" src="assets/happysound-zapsplat.mp3"></audio>
+                    <div id="score_board">
+
+
+                    </div>
+                    <div id="health_board">
+                        <div><span id="life1" class="ramen-red"></span></div>
+                        <div><span id="life2" class="ramen-red"></span></div>
+                        <div><span id="life3" class="ramen-red"></span></div>
+
+                    </div>
+                    <div id="time_board">
+                        <span id="time_left"></span>
+                    </div>
+                    <div id="settings">
+                    </div>
+                    <div id="exit" class="hidden"></div>
+
+                </div>
+                <div id="title_screen" class="hidden"></div>
+                <div id="startbutton" class="pulse hidden">
+                </div>
+                <div id="howtoplay" class="pulse hidden"></div>
+                <div id="instructions" class="hidden">
+                    <img src="assets/ramen-instructions.svg" alt="ramen">
+                    <div>
+                        <h1>To make ramen happy: </h1>
+                        <p1><b>+1 pt</b> when you catch <img src="assets/poison.svg" alt="poison" class="poison-ins"> and <img src="assets/candy.svg" alt="candy" class="candy-ins"> before falling into ramen
+                        </p1>
+
+                        <p2><b>-1 life</b> when you don’t catch them on time!</p2>
+
+                        <p3><b>-1 pt</b> when you catch ‘good’ <br> <img src="assets/mushroom.svg" alt="mushroom" class="mush-ins"> <img src="assets/egg.svg" alt="egg" class="egg-ins"> <img src="assets/fish-cake.svg" alt="fish" class="fish-ins"> ingredient</p3>
+
+                        <p4>Make sure ramen is well fed! </p4>
+
+                    </div>
+                </div>
+                <div id="exit1" class="hidden"></div>
+
+
+                <div id="game_over" class="hidden">
+                    <div id="score_left1"></div>
+                    <audio id="gameOverSound" src="assets/zapsplat-lostgame.mp3"></audio>
+                </div>
+
+                <div id="tryagain" class="pulse hidden"></div>
+                <div id="homebutton" class="pulse hidden"></div>
+
+
+                <div id="level_complete" class="hidden">
+                    <div id="score_left2"></div>
+                    <audio id="levelCompleteSound" src="assets/zapsplat-wongame.mp3"></audio>
+                </div>
+                <div id="tryagain2" class="pulse hidden"></div>
+                <div id="settings_board" class="hidden">
+                </div>
+                <div id="sound" class="sound-on hidden"></div>
+
+                <div id="home" class="hidden"></div>
+
+                <div id="replay" class="hidden"></div>
+                <div id="sound" class="sound-on hidden"></div>
+
+
+
+
+
+
+
+
+            </div>
+        </section>
+        <aside class="gameinfo">Catch the bad ingredients before they fall into ramen! Make sure you let the good ones in or you will lose. Complete level by getting 30 points before time runs out.
+            <br>
+            <br>
+            Background music by Purple Planet. Level complete and game over sounds by Zapsplat. Good and bad sounds designed by me.
+            <br>
+        </aside>
+
+
+    </main>
+
+    <footer>Gosia Warwaszynska, KEA, 2020</footer>
+    <script src="javascript.js"></script>
+</body>
+
+</html>

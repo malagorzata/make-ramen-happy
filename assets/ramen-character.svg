@@ -1,0 +1,133 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fddeb0;
+      }
+
+      .cls-2 {
+        fill: #eba228;
+      }
+
+      .cls-3 {
+        fill: #915234;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke: #915334;
+        stroke-width: 0.19px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        stroke: #585657;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-width: 0.76px;
+      }
+
+      .cls-7 {
+        stroke: #575757;
+      }
+
+      .cls-8 {
+        fill: #dda3ca;
+      }
+
+      .cls-9 {
+        fill: #ee7a68;
+      }
+
+      .cls-10 {
+        fill: #f5cfe4;
+      }
+
+      .cls-11 {
+        fill: #dadada;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <ellipse class="cls-1" cx="35.3" cy="25.19" rx="6.86" ry="10.49" transform="translate(-2.05 47.23) rotate(-66.05)"/>
+      <ellipse class="cls-2" cx="35.3" cy="25.19" rx="6.25" ry="9.55" transform="translate(-2.05 47.23) rotate(-66.05)"/>
+      <ellipse class="cls-1" cx="35.3" cy="25.19" rx="5.6" ry="8.56" transform="translate(-2.05 47.23) rotate(-66.05)"/>
+      <ellipse class="cls-2" cx="35.3" cy="25.19" rx="5.03" ry="7.56" transform="translate(-2.09 47.17) rotate(-65.95)"/>
+      <ellipse class="cls-1" cx="35.3" cy="25.19" rx="4.31" ry="6.84" transform="translate(-1.98 47.35) rotate(-66.24)"/>
+      <ellipse class="cls-2" cx="35.3" cy="25.19" rx="3.63" ry="5.94" transform="translate(-1.93 47.44) rotate(-66.37)"/>
+      <ellipse class="cls-1" cx="35.3" cy="25.19" rx="2.98" ry="4.87" transform="translate(-1.93 47.44) rotate(-66.37)"/>
+      <ellipse class="cls-2" cx="35.3" cy="25.19" rx="2.34" ry="3.92" transform="translate(-1.89 47.49) rotate(-66.45)"/>
+      <ellipse class="cls-1" cx="35.3" cy="25.19" rx="1.78" ry="2.97" transform="translate(-1.89 47.49) rotate(-66.45)"/>
+    </g>
+    <g>
+      <g>
+        <path class="cls-3" d="M45.34-.17,44.89.9h0L44,.51l.37-.95a.56.56,0,0,0,.39.37A.58.58,0,0,0,45.34-.17Z"/>
+        <polygon class="cls-3" points="44.89 0.9 44.78 1.16 44.78 1.15 43.96 0.79 43.91 0.77 44.01 0.51 44.01 0.51 44.88 0.9 44.89 0.9"/>
+        <polygon class="cls-3" points="44.78 1.16 34.6 25.46 34.38 25.36 43.91 0.77 43.96 0.79 44.78 1.15 44.78 1.16"/>
+      </g>
+      <g>
+        <polyline class="cls-4" points="44.01 0.51 43.91 0.77 34.38 25.36 34.35 25.43"/>
+        <polyline class="cls-4" points="44.38 -0.46 44.38 -0.44 44.01 0.51"/>
+        <polyline class="cls-4" points="45.34 -0.17 44.89 0.9 44.78 1.16 34.6 25.46"/>
+        <path class="cls-4" d="M44.38-.44a.33.33,0,0,1,0-.17A.5.5,0,0,1,45-.82c.28.09.45.33.38.53a.35.35,0,0,1-.07.12h0a.58.58,0,0,1-.57.1A.56.56,0,0,1,44.38-.44Z"/>
+        <polyline class="cls-4" points="44.01 0.51 44.01 0.51 44.88 0.9"/>
+        <line class="cls-4" x1="43.96" y1="0.79" x2="44.78" y2="1.15"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path class="cls-3" d="M48,1a.41.41,0,0,1,0-.16.49.49,0,0,1,.66-.12c.27.13.41.39.31.58a.22.22,0,0,1-.09.1h0a.59.59,0,0,1-.58,0A.55.55,0,0,1,48,1Z"/>
+        <path class="cls-3" d="M48.93,1.41l-.59,1-.81-.52L48,1a.55.55,0,0,0,.33.42A.59.59,0,0,0,48.93,1.41Z"/>
+        <polygon class="cls-3" points="48.34 2.4 48.2 2.64 48.2 2.64 47.44 2.16 47.39 2.13 47.53 1.88 47.53 1.88 48.34 2.4"/>
+        <polygon class="cls-3" points="48.2 2.64 34.91 25.2 34.7 25.08 47.39 2.13 47.44 2.16 48.2 2.64 48.2 2.64"/>
+      </g>
+      <g>
+        <polyline class="cls-4" points="47.53 1.88 47.39 2.13 34.7 25.08 34.67 25.14"/>
+        <polyline class="cls-4" points="48.03 0.98 48.02 1 47.53 1.88"/>
+        <polyline class="cls-4" points="48.93 1.41 48.34 2.4 48.2 2.64 34.91 25.2"/>
+        <path class="cls-4" d="M48,1a.41.41,0,0,1,0-.16.49.49,0,0,1,.66-.12c.27.13.41.39.31.58a.22.22,0,0,1-.09.1h0a.59.59,0,0,1-.58,0A.55.55,0,0,1,48,1Z"/>
+        <polyline class="cls-4" points="47.53 1.88 47.53 1.88 48.34 2.4"/>
+        <line class="cls-4" x1="47.44" y1="2.16" x2="48.2" y2="2.64"/>
+      </g>
+    </g>
+    <g>
+      <ellipse class="cls-1" cx="11.59" cy="23.73" rx="9.84" ry="10.37"/>
+      <ellipse class="cls-2" cx="11.59" cy="23.73" rx="8.95" ry="9.44"/>
+      <ellipse class="cls-1" cx="11.59" cy="23.73" rx="8.03" ry="8.46"/>
+      <ellipse class="cls-2" cx="11.59" cy="23.73" rx="7.09" ry="7.6"/>
+      <ellipse class="cls-1" cx="11.59" cy="23.73" rx="6.41" ry="6.51"/>
+      <ellipse class="cls-2" cx="11.59" cy="23.73" rx="5.57" ry="5.49"/>
+      <ellipse class="cls-1" cx="11.59" cy="23.73" rx="4.57" ry="4.5"/>
+      <ellipse class="cls-2" cx="11.59" cy="23.73" rx="3.68" ry="3.54"/>
+      <ellipse class="cls-1" cx="11.59" cy="23.73" rx="2.79" ry="2.68"/>
+    </g>
+    <g>
+      <ellipse class="cls-1" cx="22.04" cy="24.99" rx="13.21" ry="9.18"/>
+      <ellipse class="cls-2" cx="22.04" cy="24.99" rx="12.02" ry="8.35"/>
+      <ellipse class="cls-1" cx="22.04" cy="24.99" rx="10.78" ry="7.49"/>
+      <ellipse class="cls-2" cx="22.04" cy="24.99" rx="9.51" ry="6.73"/>
+      <ellipse class="cls-1" cx="22.04" cy="24.99" rx="8.61" ry="5.76"/>
+      <ellipse class="cls-2" cx="22.04" cy="24.99" rx="7.48" ry="4.86"/>
+      <ellipse class="cls-1" cx="22.04" cy="24.99" rx="6.14" ry="3.98"/>
+      <ellipse class="cls-2" cx="22.04" cy="24.99" rx="4.94" ry="3.13"/>
+      <ellipse class="cls-1" cx="22.04" cy="24.99" rx="3.75" ry="2.37"/>
+    </g>
+    <path class="cls-5" d="M49.3,22.2c0,.4,0,.8-.09,1.2s-.09.9-.15,1.34c0,.24-.07.48-.1.71-.07.45-.15.9-.24,1.34C47.11,35,42.61,40.64,37,43.86v4.29H13V43.87C7.36,40.64,2.86,35,1.25,26.79c-.09-.44-.17-.89-.24-1.34,0-.23-.07-.47-.1-.71C.85,24.3.8,23.85.76,23.4s-.07-.8-.09-1.2H49.3Z"/>
+    <polyline class="cls-6" points="20.22 32.01 17.57 29.09 14.76 32.03"/>
+    <polyline class="cls-7" points="34.81 32.01 32.16 29.09 29.35 32.03"/>
+    <path class="cls-8" d="M21.15,37c.28,2.3,1.83,4.06,3.72,4.06s3.44-1.76,3.72-4.06Z"/>
+    <path class="cls-9" d="M49.5,22q-.06,1.2-.15,2.37H.65Q.56,23.21.5,22Z"/>
+    <ellipse class="cls-10" cx="17.49" cy="34.57" rx="1.87" ry="1.26"/>
+    <ellipse class="cls-10" cx="32.08" cy="34.57" rx="1.87" ry="1.26"/>
+    <rect class="cls-11" x="12.96" y="43.73" width="23.96" height="0.58"/>
+  </g>
+</svg>
